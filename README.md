@@ -1,6 +1,6 @@
 # Gamestonks-Reddit-sentiment-stock-price-prediction
 Predicting GameStop (GME) stock prices with Reddit (r/WallStreetBets) sentiment signals, using LLM-based prompt sentiment analysis + multistage LSTM framework at 5-minute intervals.
-Link to full paper : 
+Link to full paper : https://drive.google.com/file/d/1-hVqc5hRhh8A-Pf-ojD4igNHlZrVdU13/view?usp=sharing
 
 ##Description
 This project investigates the role of online investor sentiment in shaping intraday stock price movements during the GameStop (GME) saga. Using discussion threads from the r/WallStreetBets subreddit between December 15, 2020 and February 28, 2021, I apply a context-aware, prompt-based sentiment analysis framework powered by the Gemma 3 (12B parameter) large language model. Unlike traditional lexicon-based sentiment methods that often misclassify financial slang and meme-driven discourse, this approach captures the nuances of retail investor sentiment in the unique environment of Reddit.
