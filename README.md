@@ -48,11 +48,12 @@ num_epochs = 600
 The following table includes the Mean Square Error MSE during the squeeze and post the squeeze
 
 
-| During Squeeze (20 Jan - 27 Jan) | After Squeeze (28 Jan - 04 Feb) |
-|----------|----------|----------|
-|Price only | 192.122 ± 36.020 | 343.397 ± 110.419|
-|Price with Redit engagement proxies | 161.570 ± 25.610 | 254.253 ± 58.900|
-|Price with Reddit sentiments | 134.755 ± 14.794| 195.691 ± 27.485|
+| Model                                | During Squeeze (20 Jan – 27 Jan) | After Squeeze (28 Jan – 04 Feb) |
+| ------------------------------------ | -------------------------------- | ------------------------------- |
+| Price only                           | 192.122 ± 36.020                 | 343.397 ± 110.419               |
+| Price with Reddit engagement proxies | 161.570 ± 25.610                 | 254.253 ± 58.900                |
+| Price with Reddit sentiments         | 134.755 ± 14.794                 | 195.691 ± 27.485                |
+
 
 #3 Implications
 
